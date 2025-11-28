@@ -8,7 +8,7 @@
 - FFmpeg, установлен и доступен в PATH (рекомендуется через Scoop):  
     `scoop install ffmpeg` или `winget install -e --id Gyan.FFmpeg`
 ## Запуск скрипта
-- Скачайте скрипт.
+- [Скачайте скрипт](https://github.com/RDF1337/FFmpegGUI/releases/download/v1.0.0/main.py).
 - Запустите скрипт в CMD / PowerShell командой `python main.py`.
 - Следуйте инструкциям в GUI.  
 ![Screenshot](./screenshot.png)
