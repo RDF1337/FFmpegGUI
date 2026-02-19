@@ -2,14 +2,11 @@
 > **FFmpegGUI** – набор команд, призванных ускорить выполнение рутинных задач **конвертации, сжатия и обрезки видео/аудио** с помощью FFmpeg, используя современный графический интерфейс (GUI).
 ## Требования для выполнения скрипта
 - Windows 10/11.
-- Python 3.x, установлен и доступен в PATH.
-- Библиотека CustomTkinter, установлена:  
-    `pip install customtkinter`
 - FFmpeg, установлен и доступен в PATH (рекомендуется через Scoop):  
     `scoop install ffmpeg` или `winget install -e --id Gyan.FFmpeg`
 ## Запуск скрипта
-- [Скачайте скрипт](https://github.com/RDF1337/FFmpegGUI/releases/download/v1.0.0/main.py).
-- Запустите скрипт в CMD / PowerShell командой `python main.py`.
+- [Скачайте скрипт](https://github.com/RDF1337/FFmpegGUI/releases/download/v2.0.0/FFmpegGUI.exe).
+- Запустите `FFmpegGUI.exe`.
 - Следуйте инструкциям в GUI.  
 ![Screenshot](./screenshot.png)
 
